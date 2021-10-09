@@ -1,0 +1,5 @@
+#Requirements
+
+Python 3 / IDLE / VS code
+
+Sqlite-3 database

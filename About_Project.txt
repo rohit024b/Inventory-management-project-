@@ -1,0 +1,7 @@
+#Python
+
+Name of group members for Inventory management application
+
+Rohit Bhise / A007
+Akhira CRK. / A008
+Rhuddhi Gawas / A015

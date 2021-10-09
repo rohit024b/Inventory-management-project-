@@ -1,0 +1,11 @@
+#How to run the file 
+
+1. You have to open both the file that are frontend.py and backend.py
+
+2.open both file in python compiler any(idle, vs code)
+
+3.open the frontend.py file and click on run 
+	the tkinter window will popup names as Inventory Management
+
+4.that is your output 
+
